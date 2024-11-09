@@ -16,6 +16,7 @@ Ejecute los siguientes comandos en el terminal:
 python3 -m venv .venv
 .venv\Scripts\activate
 setup
+#al terminar deactivate
 ```
 
 # Ejecución de pruebas
